@@ -1,5 +1,10 @@
 # 💫 About Me:
-• Full-Stack PHP/Python Developer with over 6+ years of experience building and maintaining high-quality web applications.<br>• Proficient in modern PHP frameworks (Laravel, Livewire, Symfony) and Python frameworks (Django), with a strong command of PHP, Python, MySQL, and OOPS principles.<br>• Skilled in front-end development using HTML5, CSS(Bootstrap and Tailwind), JavaScript, and Vue.js, React.<br>• Committed to code quality through Test-Driven Development (TDD) with PHPUnit and Pest.<br>• Adept at working in Agile and Scrum environments, using JIRA and Git for project management, version control, and code reviews.<br>• Experienced in documenting development processes, architecture, and standard components to ensure clarity and maintainability.
+- Full-Stack PHP/Python Developer with over 6+ years of experience building and maintaining high-quality web applications.
+- Proficient in modern PHP frameworks (Laravel, Livewire, Symfony) and Python frameworks (Django), with a strong command of PHP, Python, MySQL, and OOPS principles.
+- Skilled in front-end development using HTML5, CSS(Bootstrap and Tailwind), JavaScript, and Vue.js, React.
+- Committed to code quality through Test-Driven Development (TDD) with PHPUnit and Pest.
+- Adept at working in Agile and Scrum environments, using JIRA and Git for project management, version control, and code reviews.
+- Experienced in documenting development processes, architecture, and standard components to ensure clarity and maintainability.
 
 
 ## 🌐 Socials:
