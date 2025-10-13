@@ -46,6 +46,15 @@
 
 ### 🔥 Featured Projects
 
+#### 📋 [Job Application Tracker](https://github.com/pranayb2773/job-tracker)
+**Modern Laravel 12 application** for tracking job applications with AI-powered CV analysis
+- **AI-Powered CV Analysis**: Comprehensive ATS scoring with 8 evaluation dimensions, smart recommendations, and section-by-section feedback
+- **Smart Document Management**: PDF upload, storage, and metadata tracking with secure file handling
+- **Complete Application Lifecycle**: Track applications from Applied → Screening → Interview → Offer → Accepted/Rejected
+- **Cost-Optimized AI**: ~99% reduction in API costs through intelligent database caching
+- Tech: Laravel 12, Livewire 3, Flux Pro UI, Tailwind CSS 4, Laravel Prism (Claude/GPT/Gemini), Pest testing
+- [Documentation](https://github.com/pranayb2773/job-tracker#readme)
+
 #### 🚗 [Carpark Booking API](https://github.com/pranayb2773/carpark-booking-api)
 **Laravel REST API** for managing parking reservations
 - Features: Authentication, booking management, payment integration
