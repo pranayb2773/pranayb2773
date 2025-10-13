@@ -53,7 +53,7 @@
 - **Complete Application Lifecycle**: Track applications from Applied → Screening → Interview → Offer → Accepted/Rejected
 - **Cost-Optimized AI**: ~99% reduction in API costs through intelligent database caching
 - Tech: Laravel 12, Livewire 3, Flux Pro UI, Tailwind CSS 4, Laravel Prism (Claude/GPT/Gemini), Pest testing
-- [Documentation](https://github.com/pranayb2773/job-tracker#readme)
+- [Documentation](https://github.com/pranayb2773/job_tracker#readme)
 
 #### 🚗 [Carpark Booking API](https://github.com/pranayb2773/carpark-booking-api)
 **Laravel REST API** for managing parking reservations
