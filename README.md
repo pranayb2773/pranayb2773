@@ -3,7 +3,7 @@
 > Building scalable web applications for SaaS, fintech, and healthcare industries with 7+ years of proven expertise
 
 ### 💼 What I Do
-- **7+ years** building high-performance web applications for **Fortune 500 enterprises** and global organizations
+- **7+ years** building high-performance web applications for **enterprises** and global organizations
 - **Senior engineer at Bigtincan** (3 years) - Delivered **$24K annual AWS cost savings** and architected enterprise CRM integrations
 - **PHP migration expert** - Successfully led PHP 7.1 to 8.3 migration, improving performance by **25-30%**
 - **Full-stack expertise** in PHP (Laravel, Livewire, Symfony), Python (Django, FastAPI), and modern JavaScript frameworks
