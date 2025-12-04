@@ -75,11 +75,14 @@
 - Tech: Laravel, MySQL, PHPUnit testing
 - [API Documentation](https://github.com/pranayb2773/carpark-booking-api) | [Postman Collection](https://github.com/pranayb2773/carpark-booking-api/blob/main/Car%20Park%20Book%20API.postman_collection.json)
 
-#### ✅ [Todo List API](https://github.com/pranayb2773/todo-list-api)
-**Task management system** with advanced features
-- Features: User auth, task categorization, priority levels
-- Tech: PHP, RESTful design, comprehensive testing
-- [API Documentation](https://github.com/pranayb2773/todo-list-api) | [Postman Collection](https://github.com/pranayb2773/todo-list-api/blob/master/Todo%20List%20API.postman_collection.json)
+#### 📦 [Products Parser](https://github.com/pranayb2773/products_parser)
+**High-performance native PHP data processor** for efficient product catalog management
+- **Streaming Architecture**: Memory-efficient parsing of large CSV/TSV, JSON/NDJSON, and XML datasets via generators
+- **Parallel Processing**: PCNTL-powered parallel execution for both parsing and synthetic data seeding
+- **Data Normalization**: Automatically maps diverse supplier headers to a standard format
+- **Quality Assurance**: 100% strict typing (PHP 8.4+) with comprehensive Pest test suite
+- Tech: PHP 8.4, Native XMLReader, PCNTL, Pest
+- [Documentation](https://github.com/pranayb2773/products_parser#readme)
 
 ### 🎯 What I'm Working On
 - 🔭 Building web applications with Laravel and Docker
