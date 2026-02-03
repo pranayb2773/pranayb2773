@@ -57,9 +57,6 @@
 ![Pest](https://img.shields.io/badge/Pest-F28D1A?style=for-the-badge&logo=php&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 
-### 📈 GitHub Stats
-![Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranayb2773&show_icons=true&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranayb2773&layout=compact&theme=vue-dark)
 
 ### 🔥 Featured Projects
 
