@@ -26,7 +26,7 @@ namespace App\Developers;
 
 class PranayBaddam extends FullStackDeveloper
 {
-    public string $location = 'Glasgow, Scotland';
+    public string $location = 'Edinburgh, Scotland';
     public string $currentRole = 'Software Engineer @ Bigtincan';
     public int $yearsOfExperience = 7;
 
