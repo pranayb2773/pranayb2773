@@ -160,7 +160,7 @@ class PranayBaddam extends FullStackDeveloper
 
 </div>
 
-### 📋 [Job Application Tracker](https://github.com/pranayb2773/job-tracker)
+### 📋 [Job Application Tracker](https://github.com/pranayb2773/job_tracker)
 > **Modern Laravel 12 application** for tracking job applications with AI-powered CV analysis
 - **AI-Powered CV Analysis**: Comprehensive ATS scoring with 8 evaluation dimensions, smart recommendations, and section-by-section feedback
 - **Smart Document Management**: PDF upload, storage, and metadata tracking with secure file handling
